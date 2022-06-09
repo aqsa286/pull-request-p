@@ -2,4 +2,4 @@
 
 read X
 read Y
-echo "$(($X+$Y))"
+echo "Result is :$(($X+$Y))"
